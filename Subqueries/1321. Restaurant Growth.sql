@@ -69,6 +69,7 @@ OFFSET 6 ROWS
 
 
 -- EXPLANATION :
+
 /*
 This SQL query calculates the total amount spent by customers over a rolling period of 7 days, as well as the average amount spent during that period. Here's a breakdown of each part of the query:
 
